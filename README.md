@@ -1,1 +1,1 @@
-# Aachen_Intro2NN
+# Deep Learning School "Basic Concepts" - Neural Network Building Blocks
