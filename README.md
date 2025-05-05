@@ -20,8 +20,11 @@ Hello and welcome to the *Neural Network Building Blocks* repository for the 202
 
 ## Tutors
 Maximilian Horzela, 
+
 Markus Pirke,
+
 Mikhail Romodin, 
+
 Ethan Simpson, University of Manchester
 
 
