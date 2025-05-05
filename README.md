@@ -18,7 +18,11 @@ Hello and welcome to the *Neural Network Building Blocks* repository for the 202
 4. Applying neural networks to tasks 2 and 3
 5. Building a small DNN to identify the Higgs boson in LHC data!
 
-## Author
+## Tutors
+Maximilian Horzela, 
+Markus Pirke,
+Mikhail Romodin, 
 Ethan Simpson, University of Manchester
+
 
 
