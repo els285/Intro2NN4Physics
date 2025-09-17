@@ -1,4 +1,4 @@
-# *Neural Network Building Blocks* - 2025 Deep Learning School "Basic Concepts" 
+# Introduction to Machine Learning for Physicists
 
 ![image](./images/cover_banner.png)
 
