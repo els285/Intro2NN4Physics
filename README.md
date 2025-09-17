@@ -3,7 +3,7 @@
 ![image](./images/cover_banner.png)
 
 This repository is designed as an entry point for those looking to learn about machine learning in the physical sciences. 
-The material in this repository was originally prepared for the EruM-Data-Hub 2025 Deep Learning School "Basic Concepts', which took place in Aachen, Germany in May 2025. The lectures and exercises were delivered by Maximilian Horzela (University of Gottingen), 
+The material in this repository was originally prepared for the EruM-Data-Hub 2025 Deep Learning School "Basic Concepts', which took place in Aachen, Germany in May 2025. The lectures and exercises were delivered by Maximilian Horzela (University of Gottingen/ATLAS), Markus Pirke, (CAP/FAU Erlangen-Nürnberg), Mikhail Romodin (University of Tübingen), Ethan Simpson (University of Manchester/ATLAS)
 
 ## Session Goals
 * Give context to the development of deep learning, and its importance in modern physical sciences.
@@ -20,6 +20,6 @@ The material in this repository was originally prepared for the EruM-Data-Hub 20
 5. Building a small DNN to identify the Higgs boson in LHC data!
 
 ## References
-The tutorials herein make use of ATLAS OpenData, namely the _ATLAS 13 TeV samples collection with at least two leptons (electron or muon), for 2020 Open Data release_ ([10.7483/OPENDATA.ATLAS.GQ1W.I9VI](10.7483/OPENDATA.ATLAS.GQ1W.I9VI)). Thank you to the ATLAS Collaboration for providing 
+The tutorials herein make use of ATLAS OpenData, namely the _ATLAS 13 TeV samples collection with at least two leptons (electron or muon), for 2020 Open Data release_ ([10.7483/OPENDATA.ATLAS.GQ1W.I9VI](10.7483/OPENDATA.ATLAS.GQ1W.I9VI)). Thank you to the ATLAS Collaboration for providing powerful open-source dataset for education purposes.
 
 
