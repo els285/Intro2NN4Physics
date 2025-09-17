@@ -2,7 +2,8 @@
 
 ![image](./images/cover_banner.png)
 
-Hello and welcome to the *Neural Network Building Blocks* repository for the 2025 Deep Learning School "Basic Concepts"!
+This repository is designed as an entry point for those looking to learn about machine learning in the physical sciences. 
+The material in this repository was originally prepared for the EruM-Data-Hub 2025 Deep Learning School "Basic Concepts', which took place in Aachen, Germany in May 2025. 
 
 ## Session Goals
 * Give context to the development of deep learning, and its importance in modern physical sciences.
@@ -18,14 +19,7 @@ Hello and welcome to the *Neural Network Building Blocks* repository for the 202
 4. Applying neural networks to tasks 2 and 3
 5. Building a small DNN to identify the Higgs boson in LHC data!
 
-## Tutors
-Maximilian Horzela, 
 
-Markus Pirke,
-
-Mikhail Romodin, 
-
-Ethan Simpson, University of Manchester
 
 
 
